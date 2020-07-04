@@ -12,6 +12,11 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 - Grunt is currently most popular, but:
 - [gulp.js](https://github.com/hchiam/learning-gulp) is fast and can run tasks in parallel, and you can create/extend tasks with normal JavaScript.
 
+Look at next:
+
+- https://classroom.udacity.com/courses/ud892/lessons/5332430837/concepts/53252207770923
+- https://classroom.udacity.com/courses/ud892/lessons/5332430839/concepts/53738292200923
+
 ## Scaffolding:
 
 Automate the automation. If you create a lot similar projects, it helps to use templates/boilerplates that you can do a (fancy) "copy-and-paste":
