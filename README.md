@@ -11,3 +11,11 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 - Grunt is currently most popular, but:
 - [gulp.js](https://github.com/hchiam/learning-gulp) is fast and can run tasks in parallel, and you can create/extend tasks with normal JavaScript.
+
+## Scaffolding:
+
+Automate the automation. If you create a lot similar projects, it helps to use templates/boilerplates that you can do a (fancy) "copy-and-paste":
+
+- [html5boilerplate](https://github.com/h5bp/html5-boilerplate) (beginner): JS/HTML/CSS, jQuery, etc., and non-opinionated but no build tool.
+- Web Starter Kit (intermediate): opinionated, and comes with build config, live editing, etc., but won't fit every project.
+- Yeoman (advanced): most flexible with generators that ask you questions.
