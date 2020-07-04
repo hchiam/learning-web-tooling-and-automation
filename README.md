@@ -23,4 +23,4 @@ Automate the automation. If you create a lot similar projects, it helps to use t
 
 - [html5boilerplate](https://github.com/h5bp/html5-boilerplate) (beginner): JS/HTML/CSS, jQuery, etc., and non-opinionated but no build tool.
 - Web Starter Kit (intermediate): opinionated, and comes with build config, live editing, etc., but won't fit every project.
-- Yeoman (advanced): most flexible with generators that ask you questions.
+- Yeoman (advanced): most flexible with generators that ask you questions. My own personal example: https://github.com/hchiam/generator-hchiam-learning
